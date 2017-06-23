@@ -25,8 +25,8 @@ app:
 #
 # Marketing
 #
-marketing_header: Does Awesome Stuff # Optional
-marketing_desc: Glyffy is a simple way to create & share memes in your messaging app. Follow friends and family & discover accounts all over the world that are sharing hilarious memes. Join the community & express yourself by sending memes right from your keyboard.
+marketing_header: meme making & sharing made easy # Optional
+marketing_desc: Glyphoto is a simple way to create & share memes in your messaging app. Follow friends and family & discover accounts all over the world that are sharing hilarious memes. Join the community & express yourself by sending memes right from your keyboard.
 
 #
 # Social Links
