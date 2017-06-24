@@ -65,7 +65,7 @@ device: iphone-se-space-gray-vertical # REQUIRED
 #
 background_color: "#989898" # Optional
 # background_image: /images/backgrounds/58-usersthink-stock-image-web.jpg # Optional - Use Relative path e.g. images/backgrounds/image.jpg
-background_image: https://cdn.shutterstock.com/shutterstock/videos/8886445/thumb/1.jpg
+background_image: https://mail.hover.com/u/errol@glyphoto.com/shared/2%20girls.jpg
 text_color: white # Optional
 link_color: # Optional
 social_link_color: "#0accfa" # Optional
